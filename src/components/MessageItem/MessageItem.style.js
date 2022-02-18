@@ -21,6 +21,6 @@ const styles = {
         fontSize: 17,
         color: '#f5f5f5'
     },
-}
+};
 
 export default styles;
