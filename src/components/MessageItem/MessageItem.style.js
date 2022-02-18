@@ -15,10 +15,11 @@ const styles = {
         backgroundColor: '#2f2f2f'
     },
     message: {
+        fontFamily: 'sans-serif', 
         textAlign: 'center',
         paddingLeft: 20,
         paddingRight: 20,
-        fontSize: 17,
+        fontSize: 14,
         color: '#f5f5f5'
     },
 };
